@@ -17,4 +17,5 @@ Run the following commands inside the Docker containers:
 ```sh
 npm ci
 npm run start -w packages/ps-tree
+npm run start -ws
 ```
