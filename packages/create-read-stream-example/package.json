@@ -1,0 +1,13 @@
+{
+  "name": "create-read-stream-example",
+  "version": "1.0.0",
+  "main": "create-read-stream-example.mjs",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node create-read-stream-example.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "description": ""
+}
