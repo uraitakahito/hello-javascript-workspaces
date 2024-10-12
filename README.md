@@ -16,5 +16,5 @@ Run the following commands inside the Docker containers:
 npm ci
 npm run start -w packages/ps-tree
 npm run start -w packages/hello-npmjs
-npm run start -ws
+npm run start -ws --if-present
 ```
