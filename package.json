@@ -11,8 +11,5 @@
   "description": "",
   "workspaces": [
     "packages/**"
-  ],
-  "devDependencies": {
-    "@biomejs/biome": "^1.9.3"
-  }
+  ]
 }
