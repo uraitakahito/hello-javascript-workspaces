@@ -11,5 +11,8 @@
   "description": "",
   "workspaces": [
     "packages/**"
-  ]
+  ],
+  "devDependencies": {
+    "eslint": "^8.57.1"
+  }
 }
