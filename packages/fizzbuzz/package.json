@@ -4,7 +4,7 @@
   "main": "fizzbuzz.js",
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node fizzbuzz.js"
   },
   "author": "",
   "license": "Apache-2.0",
