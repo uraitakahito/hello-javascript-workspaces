@@ -4,8 +4,7 @@
   "main": "create-read-stream-example.mjs",
   "devDependencies": {},
   "scripts": {
-    "start": "node create-read-stream-example.mjs",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node create-read-stream-example.mjs"
   },
   "author": "",
   "license": "Apache-2.0",
