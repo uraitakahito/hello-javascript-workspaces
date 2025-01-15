@@ -1,5 +1,6 @@
 /* eslint-disable no-console */
-function fizzbuzz(n) {
+/* eslint-disable no-magic-numbers */
+const fizzbuzz = (n) => {
   if (n % 15 === 0) {
     return 'FizzBuzz';
   }
@@ -10,7 +11,7 @@ function fizzbuzz(n) {
     return 'Buzz';
   }
   return n;
-}
+};
 let a = 1;
 console.log(fizzbuzz(a += 1));
 console.log(fizzbuzz(a += 1));

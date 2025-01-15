@@ -1,0 +1,17 @@
+{
+  "name": "import-external-esmodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "cleandep": "rm -rf node_modules dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@uraitakahito/hello-esmodule": "^1.0.2"
+  }
+}
